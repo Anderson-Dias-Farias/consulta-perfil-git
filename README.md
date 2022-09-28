@@ -6,6 +6,8 @@ APP de consulta publicações no Github, App faz uma busca com nome de usuário 
 
 App para teste de logica e treino de Requisição API.
 
+Utilizando o AXIOS para requisição de API, Validação de PROPS com Prop-types, React-icons, Estilo padrão com Styled-components, Template Styled-normalize, Padronização de Clean-Code, ESlint e Prettier 
+
 
 ## Autores
 
@@ -14,5 +16,8 @@ App para teste de logica e treino de Requisição API.
 
 ## Demonstração
 
-![API-GIT](https://user-images.githubusercontent.com/96631335/192813084-d966f101-645e-4237-b0d7-3a0f04da8fd5.gif)
+![API-GIT](https://user-images.githubusercontent.com/96631335/192817676-b400bb7c-c268-4eb8-9b62-79e9adc90467.gif)
 
+![Abertura-API-GIT](https://user-images.githubusercontent.com/96631335/192820288-56d5a0f0-cea5-42be-bc8a-df60543b0e9c.PNG)
+![Meu-Repositorio](https://user-images.githubusercontent.com/96631335/192820277-6f1610fc-7f72-46ee-93d9-5000d52f033f.PNG)
+![Repositorio-DevSamurai](https://user-images.githubusercontent.com/96631335/192820283-7f84a4e3-0202-4570-95f2-67956158c1a2.PNG)
